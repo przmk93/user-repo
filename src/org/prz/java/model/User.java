@@ -1,4 +1,4 @@
-package main.java.org.prz.java;
+package org.prz.java.model;
 
 public class User {
 	private int id;
